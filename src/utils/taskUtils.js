@@ -10,11 +10,11 @@ const tomorrowStr = addDays(todayStr, 1);
 const yesterdayStr = addDays(todayStr, -1);
 
 export const DEFAULT_MEMBERS = [
-  { id: 'member-1', name: 'Tanu' },
-  { id: 'member-2', name: 'Member 2' },
-  { id: 'member-3', name: 'Member 3' },
-  { id: 'member-4', name: 'Member 4' },
-  { id: 'member-5', name: 'Member 5' }
+  { id: 'member-1', name: 'Tanvi' },
+  { id: 'member-2', name: 'Tannu' },
+  { id: 'member-3', name: 'Akash' },
+  { id: 'member-4', name: 'Rshmi' },
+  { id: 'member-5', name: 'Suhani' }
 ];
 
 export const SAMPLE_DAILY_TASKS = [
